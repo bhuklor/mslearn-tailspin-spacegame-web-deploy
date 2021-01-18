@@ -1,0 +1,15 @@
+tacbook-pro:mslearn-tailspin-spacegame-web-deploy anatoly$ git remote -v                   origin  https://github.com/bhuklor/mslearn-tailspin-spacegame-web-deploy.git (fetch)
+origin  https://github.com/bhuklor/mslearn-tailspin-spacegame-web-deploy.git (push)
+upstream        https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web-deploy.git (fetch)
+MacBook-Pro:mslearn-tailspin-spacegame-web-deploy anatoly$ https://github.com/bhuklor/mslearn-tailspin-spacegame-web-deploy.gitMacBook-Pro:mslearn-tailspin-spacegame-web-deploy anatoly$,bn nba xmasn xx
+
+
+
+
+origin          https://github.com/bhuklor/mslearn-tailspin-spacegame-web-deploy.git (push)
+upstream        https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web-deploy.git (fetch)
+
+
+
+
+                https://github.com/bhuklor/mslearn-tailspin-spacegame-web-deploy.git
